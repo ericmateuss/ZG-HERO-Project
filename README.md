@@ -1,0 +1,1 @@
+## Repositorio reservado ao desenvolvimento do projeto **Linketinder**
